@@ -22,6 +22,18 @@ const dummy_expenses = [
     amount: 450,
     date: new Date(2019, 5, 12),
   },
+  {
+    id: "e5",
+    title: "Cutlery",
+    amount: 340,
+    date: new Date(2019, 2, 4),
+  },
+  {
+    id: "e6",
+    title: "Plates",
+    amount: 301,
+    date: new Date(2020, 8, 14),
+  },
 ];
   // return React.createElement(
     // 'div',
